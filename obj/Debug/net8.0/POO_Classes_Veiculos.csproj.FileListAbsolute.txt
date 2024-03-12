@@ -1,0 +1,14 @@
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Classes_Veiculos\obj\Debug\net8.0\POO_Classes_Veiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Classes_Veiculos\obj\Debug\net8.0\POO_Classes_Veiculos.AssemblyInfoInputs.cache
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Classes_Veiculos\obj\Debug\net8.0\POO_Classes_Veiculos.AssemblyInfo.cs
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Classes_Veiculos\obj\Debug\net8.0\POO_Classes_Veiculos.csproj.CoreCompileInputs.cache
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Classes_Veiculos\bin\Debug\net8.0\POO_Classes_Veiculos.exe
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Classes_Veiculos\bin\Debug\net8.0\POO_Classes_Veiculos.deps.json
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Classes_Veiculos\bin\Debug\net8.0\POO_Classes_Veiculos.runtimeconfig.json
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Classes_Veiculos\bin\Debug\net8.0\POO_Classes_Veiculos.dll
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Classes_Veiculos\bin\Debug\net8.0\POO_Classes_Veiculos.pdb
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Classes_Veiculos\obj\Debug\net8.0\POO_Classes_Veiculos.dll
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Classes_Veiculos\obj\Debug\net8.0\refint\POO_Classes_Veiculos.dll
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Classes_Veiculos\obj\Debug\net8.0\POO_Classes_Veiculos.pdb
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Classes_Veiculos\obj\Debug\net8.0\POO_Classes_Veiculos.genruntimeconfig.cache
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Classes_Veiculos\obj\Debug\net8.0\ref\POO_Classes_Veiculos.dll
